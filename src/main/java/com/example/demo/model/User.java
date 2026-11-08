@@ -7,4 +7,5 @@ import lombok.Getter;
 public class User {
 	private String id;
 	private String fullNameStatus;
+	private String priority;
 }
