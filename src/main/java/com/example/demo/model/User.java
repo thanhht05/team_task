@@ -7,5 +7,5 @@ import lombok.Getter;
 @Setter
 public class User {
 	private String id;
-	private String name;
+	private String nameStatusChanged;
 }
